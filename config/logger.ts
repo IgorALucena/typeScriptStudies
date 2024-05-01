@@ -1,7 +1,7 @@
 import winston from "winston";
 import config from "config";
 
-const levels = {
+const levels = { 
     error: 0,
     warn: 1,
     info: 2,
